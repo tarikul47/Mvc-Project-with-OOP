@@ -1,0 +1,15 @@
+Model 
+    * Product Class =  Will take Common property 
+    * Book Class =  Will specific property 
+    * Model =  Manin class where makes data create or store 
+    * Data create as array
+    * One more function create in Model
+
+Controller 
+    * Model include here 
+    * Then create model object with construct 
+    * Data Makes or modify or stores 
+    * Logic set for response 
+    * Two type respoinse we support 
+        * Jodi get url book not get at that time show all books
+        * and else conition shows rest of all
